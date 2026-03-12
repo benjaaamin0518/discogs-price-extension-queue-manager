@@ -1,7 +1,7 @@
 # Scrape Queue Manager UI
 
 <p style="height:350px">
-<img src="画面.png">
+<img src="image.png">
 </p>
 
 [discogs-price-helperのバックエンド側](https://github.com/benjaaamin0518/discogs-price-extension-backend)で行うスクレイピングジョブの状態をリアルタイムで監視するための

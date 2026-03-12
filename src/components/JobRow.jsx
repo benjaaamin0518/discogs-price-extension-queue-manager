@@ -44,6 +44,9 @@ export default function JobRow({ job, selected, setSelected }) {
         <div style={{ fontSize: 12, opacity: 0.7, marginTop: 6 }}>
           success:{success} running:{running} waiting:{waiting}
         </div>
+        <div style={{ fontSize: 12, opacity: 0.7, marginTop: 4 }}>
+          稼働時間: {job.elapsedTime}
+        </div>
 
       </div>
 
