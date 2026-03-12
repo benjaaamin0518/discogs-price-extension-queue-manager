@@ -1,0 +1,1 @@
+# discogs-price-extension-queue-manager
